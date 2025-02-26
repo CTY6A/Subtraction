@@ -1,4 +1,4 @@
-Program BbI4UTAHUE;
+Program Subtraction;
 //program calculates subtraction of two nums
 //(up to 50 digits) in any notation
 
